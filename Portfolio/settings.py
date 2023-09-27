@@ -28,7 +28,7 @@ SECRET_KEY = 'django-insecure-c*w=l2)cj5^m-w8c_hpod8u*1y849n9!o%u+twpr=i&#$l314$
 DEBUG = False
 
 
-ALLOWED_HOSTS = ['https://techknowtake.azurewebsites.net/','*']
+ALLOWED_HOSTS = ['*','https://techknowtake.azurewebsites.net']
 
 
 # Application definition
