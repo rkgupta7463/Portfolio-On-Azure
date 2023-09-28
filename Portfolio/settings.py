@@ -25,10 +25,10 @@ MEDIA_DIR=os.path.join(BASE_DIR, 'media/')
 SECRET_KEY = 'django-insecure-c*w=l2)cj5^m-w8c_hpod8u*1y849n9!o%u+twpr=i&#$l314$'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = False
+DEBUG = True
 
 
-ALLOWED_HOSTS = ['*','https://techknowtake.azurewebsites.net']
+ALLOWED_HOSTS = ['https://techknowtake.azurewebsites.net/','*']
 
 
 # Application definition
